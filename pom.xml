@@ -29,6 +29,6 @@
 		</dependency>		
 		<!-- e:Webjars (static dependencies distributed as JAR files) -->
 		
-	</dependencies>
+	</dependencies> 
 	
 </project>
